@@ -1,0 +1,2 @@
+# CC
+A Cute Project
